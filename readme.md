@@ -1,10 +1,11 @@
-# 兼职管理系统
+# 兼职管理系统1
 
 ## 获取方式
 
 关注公众号： **程序员王不二**，回复关键词  ： “**兼职1**”   
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
 ## 1、项目介绍
 
@@ -27,6 +28,7 @@
 - IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
 - tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
 - 数据库版本：MySql 5.x
+- maven项目：否
 - 硬件环境：Windows 或者 Mac OS
 
 
@@ -34,39 +36,33 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146882.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206052146882.jpg)
 
 ### 4.2前端 模块
 
-![前台-兼职列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146043.jpg)
+![前台-兼职列表](https://www.codeshop.fun/Typora-Images/202206052146043.jpg)
 
-![前台-招聘详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146643.jpg)
+![前台-招聘详情](https://www.codeshop.fun/Typora-Images/202206052146643.jpg)
 
 ### 4.3 用户模块
 
-![用户-我的发布](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146464.jpg)
+![用户-我的发布](https://www.codeshop.fun/Typora-Images/202206052146464.jpg)
 
-![用户-收到的报名](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146715.jpg)
+![用户-收到的报名](https://www.codeshop.fun/Typora-Images/202206052146715.jpg)
 
-![用户-我的报名](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146446.jpg)
+![用户-我的报名](https://www.codeshop.fun/Typora-Images/202206052146446.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146008.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206052146008.jpg)
 
-![管理员-学校管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146126.jpg)
+![管理员-学校管理](https://www.codeshop.fun/Typora-Images/202206052146126.jpg)
 
-![管理员-兼职管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146497.jpg)
+![管理员-兼职管理](https://www.codeshop.fun/Typora-Images/202206052146497.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146633.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206052146633.jpg)
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： “**兼职1**”   
 
 
 
